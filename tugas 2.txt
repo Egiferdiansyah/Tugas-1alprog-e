@@ -1,0 +1,39 @@
+Tentu! Berikut adalah notasi kalimat deskriptif untuk algoritma membuat es kelapa:
+
+ Deskripsi Algoritma Membuat Es Kelapa
+
+1. Persiapan Bahan
+   - Siapkan bahan-bahan yang diperlukan:
+     - 1 buah kelapa muda
+     - Gula pasir (secukupnya)
+     - Air matang (jika diperlukan)
+     - Es batu (secukupnya)
+
+2. Pengolahan Kelapa
+   - Belah kelapa muda menjadi dua bagian untuk mengambil air dan daging kelapa.
+   - Tuangkan air kelapa ke dalam wadah bersih.
+   - Ambil daging kelapa dengan sendok dan serut halus jika diinginkan.
+
+3. Pencampuran
+   - Tambahkan gula pasir ke dalam air kelapa sesuai selera, aduk hingga gula larut.
+   - Jika air kelapa terasa kurang, tambahkan sedikit air matang untuk menambah volume.
+
+4. Penyajian
+   - Siapkan gelas atau mangkuk saji.
+   - Tambahkan es batu ke dalam gelas.
+   - Tuang campuran air kelapa ke dalam gelas yang berisi es.
+   - Tambahkan serutan daging kelapa di atasnya sebagai hiasan.
+
+5. Sajikan
+   - Hidangkan es kelapa dingin dan nikmati.
+
+Contoh Notasi Deskriptif:
+
+- Input: 1 buah kelapa muda, gula pasir, air matang, es batu.
+- Proses:
+  - Belah kelapa dan ambil air serta daging kelapa.
+  - Campur air kelapa dengan gula hingga larut.
+  - Siapkan gelas dengan es batu, tuang campuran air kelapa, dan tambahkan daging kelapa.
+- **Output**: Es kelapa siap disajikan.
+
+Jika ada yang ingin ditambahkan atau disesuaikan, silakan beri tahu!
